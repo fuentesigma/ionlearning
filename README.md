@@ -1,6 +1,6 @@
 # Quantum Machine Learning With Canonical Variables
 
-This repository contains the code that accompanies the paper "Quantum Machine Learning With Canonical Variables" by J. Fuentes.
+This repository contains the code that accompanies the paper _"Quantum Machine Learning With Canonical Variables"_ by <span style="color:#6a9fb5;">J. Fuentes</span>.
 
 ## Libraries Required
 
