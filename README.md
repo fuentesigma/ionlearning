@@ -27,9 +27,10 @@ To run the code, the following libraries are required:
 
 ## Files Included
 
-- **iontrap.py**: This file simulates the equations of motion within an ion trap.
+- **iontrap.py**: The main engine, this file simulates the equations of motion within an ion trap.
 - **canonicalClassifier.py**: This file implements a binary regressor for the canonical variables.
 - **canonicalRegressor.py**: This file implements a regressor for the canonical variables.
+- **densityRegressor.py**: This file implements a regressor for the square modulus of a Gaussian wave packet.
 - **controlPanel.ipynb**: This Jupyter notebook helps to reproduce all the examples in the paper and demonstrates how the framework can be implemented for simulations.
 
 ## Data
